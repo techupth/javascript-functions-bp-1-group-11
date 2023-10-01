@@ -1,14 +1,19 @@
 // Exercise #2 Declaring Function Expression
 // Start coding here
-const add = function (a,b){
+let add = function (a, b) {
     return a+b;
+    
 }
-const subtract = function (a,b){
-    return a-b;
+
+let subtract = function (a, b) {
+    return a-b
 }
-const multiply = function (a,d){
-    return a*b;
+
+
+let multiply = function (a, b) {
+    return a*b
 }
-const divide = function (a,b){
-    return a/b;
+
+let divide = function (a, b) {
+    return a/b
 }
